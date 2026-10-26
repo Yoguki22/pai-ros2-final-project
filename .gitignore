@@ -1,0 +1,30 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# ROS 2 generated files
+build/
+install/
+log/
+
+# Training outputs and large data
+wandb/
+checkpoints/
+dataset/
+bag_files/
+*.db3
+*.mcap
+
+# Pixi environment
+.pixi/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

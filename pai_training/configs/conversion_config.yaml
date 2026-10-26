@@ -1,0 +1,4 @@
+bag_dir: "/home/ubuntu/dataset/rosbags/drop_cube"
+output_dir: "/home/ubuntu/dataset/lerobot_dataset/drop_cube"
+config: "configs/crane_features.py"
+target_freq: 20
